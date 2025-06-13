@@ -1,6 +1,6 @@
 # Desafio Proyecto Blog Django
 
-Este es un proyecto web hecho con Django. Es un blog donde los usuarios pueden crear, ver y eliminar publicaciones. Esta es una aplicacion para la ultima entrega.
+Este es un proyecto web hecho con Django. Es un blog donde los usuarios pueden crear, ver y eliminar publicaciones. Esta es una aplicacion para la tercera entrega.
 
 ## Tecnologias Usadas
 
@@ -23,6 +23,6 @@ Para poder usar este proyecto en tu compu, sigue estos pasos:
 1. Clona este repositorio repo:
 
    ```bash
-   git clone https://github.com/facundojorgebarreda/desafio-proyecto-blog-final-django.git
+   git clone https://github.com/facundojorgebarreda/desafio-proyecto-blog-django.git
 
 Saludos profes.
